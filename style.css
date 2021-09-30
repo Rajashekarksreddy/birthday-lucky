@@ -7,7 +7,7 @@ body {
     background-size: contain;
     height: 100vh;
     background-repeat: no-repeat;
-    font-family: "Caveat Brush", cursive;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     letter-spacing: 2px;
     font-size: larger;
   }
@@ -16,13 +16,13 @@ body {
     grid-template-columns: 40% 60%;
     justify-content: center;
     align-items: center;
-    background-color: #000000;
+    background-color: #63757c;
     width: 80%;
     border-radius: 20px;
   }
   
   .image {
-    background-image: url("https://images.unsplash.com/photo-1578922794704-7bdd46f70ce0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80");
+    background-image: url("");
     border-radius: 20px;
     width: 20rem;
     height: 30rem;
